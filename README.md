@@ -1,4 +1,4 @@
-# cb0494-dsai-project
+# dsai-mini-project-ay2021
 
 ## Description
 This is a Data Science mini-project done for Nanyang Technological University's CB0494 Introduction to Data Science and Artificial Intelligence course, in Semester 2 of AY2020-2021.
