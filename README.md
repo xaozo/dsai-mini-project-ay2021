@@ -1,7 +1,7 @@
 # cb0494-dsai-project
 
 ## Description
-This is a Data Science mini-project done for Nanyang Technological University's CB0494 Introduction to Data Science and Artificial Intelligence course.
+This is a Data Science mini-project done for Nanyang Technological University's CB0494 Introduction to Data Science and Artificial Intelligence course, in Semester 2 of AY2020-2021.
 The dataset used is HDB resale prices.
 This repository contains the following files:
 * The dataset in csv format
