@@ -14,6 +14,7 @@ I would like to thank the following people, without whom the completion of this 
 * Ong Qi Yi, my teammate in this mini-project
 * Dr. Kelvin Yong, who mentored and assessed us in this mini-project
 
-## Additional Comments
-Additionally, motivated by constructive criticism given on the original notebook, I worked on another notebook that explores the same dataset from an alternative and complementary perspective.
-This notebook is still a work-in-progress, and will be uploaded soon.
+## Future Work
+Possible future directions for this analysis includes:
+* Feature generation - region of flat (eg. North, North-East, Central...)
+* Test whether the newly generated feature are better predictors than existing ones
